@@ -1,4 +1,4 @@
-//logout
+//admin logout
 package day1;
  
 import org.openqa.selenium.By;
