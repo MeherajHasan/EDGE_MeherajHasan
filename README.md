@@ -13,8 +13,8 @@ This repository contains all **scripts, tasks, and notes** from the **Software Q
 ## 🚀 How to Use  
 1️⃣ Clone this repository:  
 ```bash
-git clone <your-repo-link>
-cd SQT-EDGE
+git clone https://github.com/MeherajHasan/EDGE_SQT_MeherajHasan.git
+cd EDGE_SQT_MeherajHasan
 ```
 2️⃣ Explore the Manual Testing section for test cases, bug reports, and checklists. <br>
 3️⃣ Run Selenium Scripts in the Automation Testing folder using:
